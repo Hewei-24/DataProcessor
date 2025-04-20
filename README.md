@@ -1,1 +1,1 @@
-this program can process physics experiment date.
+this program can process physics experiment data.
